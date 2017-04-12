@@ -1,3 +1,6 @@
+libwebp/src/main/libs
+libwebp/src/main/obj
+libwebp/.externalNativeBuild
 .DS_Store
 
 # Built application files
